@@ -20,9 +20,14 @@
 | ------- |
 | [0015-3sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
