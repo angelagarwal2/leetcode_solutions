@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0031-next-permutation](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
