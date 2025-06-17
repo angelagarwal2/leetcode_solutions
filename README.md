@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
