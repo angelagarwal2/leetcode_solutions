@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0015-3sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
 | ------- |
