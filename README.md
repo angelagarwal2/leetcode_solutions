@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
