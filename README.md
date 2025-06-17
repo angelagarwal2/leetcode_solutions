@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
