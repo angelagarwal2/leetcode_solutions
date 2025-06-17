@@ -63,6 +63,7 @@
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
