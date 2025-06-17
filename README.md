@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
