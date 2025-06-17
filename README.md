@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
