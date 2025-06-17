@@ -54,6 +54,7 @@
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0206-reverse-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
