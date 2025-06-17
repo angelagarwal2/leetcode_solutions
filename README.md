@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
