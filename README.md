@@ -22,6 +22,7 @@
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
