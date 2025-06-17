@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
