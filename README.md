@@ -48,6 +48,7 @@
 | [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
