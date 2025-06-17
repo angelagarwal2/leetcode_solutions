@@ -35,6 +35,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
