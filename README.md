@@ -26,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
