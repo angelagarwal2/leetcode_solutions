@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
