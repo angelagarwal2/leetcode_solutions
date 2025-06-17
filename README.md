@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
