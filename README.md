@@ -45,6 +45,7 @@
 | [0075-sort-colors](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
