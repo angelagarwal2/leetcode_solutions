@@ -55,6 +55,7 @@
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
