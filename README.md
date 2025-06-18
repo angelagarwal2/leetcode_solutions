@@ -1,6 +1,5 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-Welcome to the LeetCode Solutions repository! Here, you'll find solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
