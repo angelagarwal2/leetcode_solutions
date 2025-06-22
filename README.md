@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -191,6 +192,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
