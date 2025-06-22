@@ -1,12 +1,23 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int c=0;
-        for(int i=0;i<nums.size();i++)
+        //similar to finding lower bound
+        int n=nums.size();
+        int low=0;
+        int high=n-1;
+        int ans=n;
+        while(low<=high)
         {
-            if(nums[i]<target)
-            c=i+1;
+            int mid=low+((high-low)/2);
+            if(nums[mid]>=target)
+            {
+                ans=mid;
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
         }
-        return c;
+        return ans;
     }
 };
