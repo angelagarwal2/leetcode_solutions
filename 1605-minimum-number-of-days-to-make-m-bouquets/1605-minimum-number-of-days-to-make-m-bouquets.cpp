@@ -14,15 +14,14 @@ public:
             for(int i=0;i<n;i++)
             {
                 if(bloomDay[i]<=mid)
-                c++;
+                {c++;
+                if(c==k)
+                {b++;
+                c=0;}}
                 else
                 {
-                    b=b+(c/k);
                     c=0;
                 }
-            }
-            if(c!=0){
-                b=b+(c/k);
             }
             if(b>=m){
                 ans=mid;
