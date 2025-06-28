@@ -178,6 +178,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -186,6 +187,7 @@
 | [0225-implement-stack-using-queues](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
