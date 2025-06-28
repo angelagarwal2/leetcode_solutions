@@ -102,6 +102,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
@@ -181,6 +182,7 @@
 | [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -302,6 +304,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
