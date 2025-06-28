@@ -178,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -335,4 +336,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
