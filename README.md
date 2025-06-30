@@ -48,6 +48,7 @@
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -86,6 +87,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -156,6 +158,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -299,6 +302,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -329,6 +333,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
