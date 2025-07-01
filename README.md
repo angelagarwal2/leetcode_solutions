@@ -92,6 +92,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -208,6 +209,7 @@
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -320,6 +322,7 @@
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
 | ------- |
