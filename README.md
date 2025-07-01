@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
@@ -359,6 +361,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
