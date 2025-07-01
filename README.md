@@ -119,6 +119,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -193,6 +194,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0013-roman-to-integer) |
@@ -285,6 +287,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
