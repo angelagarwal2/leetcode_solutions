@@ -140,6 +140,7 @@
 | [0125-valid-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -163,6 +164,7 @@
 | [0056-merge-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -193,6 +195,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0206-reverse-linked-list) |
@@ -297,6 +300,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
@@ -386,6 +390,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
