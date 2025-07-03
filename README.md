@@ -104,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0012-integer-to-roman) |
@@ -187,6 +188,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
@@ -243,6 +245,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
