@@ -111,6 +111,7 @@
 | [0012-integer-to-roman](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -253,6 +254,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
