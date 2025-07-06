@@ -6,12 +6,15 @@ long long powerExp(long long a,long long b)
     long long res=1;
     while(b)
     {
-        if(b&1)
+        if(b%2==1)
         {
             res=(res*a)%mod;
+            b=b-1;
         }
+        else{
         a=(a*a)%mod;
         b/=2;
+        }
     }
     return res;
 }
