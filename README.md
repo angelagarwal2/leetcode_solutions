@@ -64,6 +64,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
@@ -101,6 +102,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -362,6 +364,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
