@@ -162,6 +162,7 @@
 | [0287-find-the-duplicate-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -238,6 +239,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
