@@ -6,16 +6,14 @@ public:
         int mid=n/2;
         int i=0;
         int j=mid;
-        int cl=0;
-        int cr=0;
+        int c=0;
         while(i<mid&&j<n)
         {
-            if(vowels.count(s[i])) cl++;
-            if(vowels.count(s[j])) cr++;
+            if(vowels.count(s[i])) c++;
+            if(vowels.count(s[j])) c--;
             i++;
             j++;
         }
-        if(cl==cr) return true;
-        return false;
+        return c==0;
     }
 };
