@@ -255,6 +255,7 @@
 | [0409-longest-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
