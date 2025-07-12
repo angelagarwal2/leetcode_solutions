@@ -2,12 +2,14 @@ class Solution {
 public:
 bool isValid(string s)
 {
+    if(s.empty()) return false;
     if(s[0]=='0') return false;
-    if(stoi(s)>255||stoi(s)<0) return false;
-    return true;
+    int val=stoi(s);
+    return val>=0 && val<=255;
 }
 void solve(string s,int ind, int n, int parts,string curr,vector<string>& res)
 {
+    if(parts>4) return;
     if(parts==4&&ind==n){
         curr.pop_back();
         res.push_back(curr);
