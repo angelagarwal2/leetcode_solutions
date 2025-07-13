@@ -112,6 +112,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -264,6 +265,7 @@
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
