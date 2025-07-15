@@ -278,6 +278,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3396-valid-word](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
