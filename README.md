@@ -67,6 +67,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
@@ -114,6 +115,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -407,6 +409,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
