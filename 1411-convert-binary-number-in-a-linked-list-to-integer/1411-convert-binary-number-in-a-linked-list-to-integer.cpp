@@ -14,7 +14,7 @@ public:
         int res=0;
         while(head!=nullptr)
         {
-            res=(res<<1)|head->val;
+            res=(res<<1)|head->val;  //multiply res by 2 each time and then add with head->val
             head=head->next;
         }
         return res;
