@@ -286,6 +286,7 @@
 | [3396-valid-word](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +387,7 @@
 | [0054-spiral-matrix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
+| [3931-process-string-with-special-operations-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3931-process-string-with-special-operations-i) |
 ## Union Find
 |  |
 | ------- |
