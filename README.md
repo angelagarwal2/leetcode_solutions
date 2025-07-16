@@ -81,6 +81,7 @@
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -378,6 +379,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
