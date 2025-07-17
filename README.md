@@ -284,6 +284,7 @@
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -305,6 +306,7 @@
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
@@ -449,6 +451,7 @@
 | [0409-longest-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
@@ -529,4 +532,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
