@@ -281,6 +281,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -305,6 +306,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1666-make-the-string-great) |
