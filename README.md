@@ -67,6 +67,7 @@
 | [0907-koko-eating-bananas](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -219,6 +220,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
+| [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
