@@ -126,6 +126,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -305,6 +306,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2887-sort-vowels-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
@@ -435,6 +437,7 @@
 | [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
