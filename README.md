@@ -82,6 +82,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
