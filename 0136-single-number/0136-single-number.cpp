@@ -9,9 +9,9 @@ public:
         return i.first;
         return -1; */
         int a=0;
-        for(auto i:nums)
+        for(auto i:nums) //nums=1,1,2,3,3,8,8
         {
-            a=a^i;
+            a=a^i;   // 1^1^2^3^3^8^8 = 0^2^0^0 = 0^2 = 2
         }
         return a;
     }
