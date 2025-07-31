@@ -157,6 +157,7 @@
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2050-count-good-numbers) |
@@ -446,6 +447,7 @@
 | [0342-power-of-four](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1610-xor-operation-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
