@@ -41,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -150,6 +151,7 @@
 | [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -571,4 +573,12 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
