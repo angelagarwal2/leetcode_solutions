@@ -20,3 +20,6 @@ public:
         return maxlen;
     }
 };
+
+//TC:o(n+n);
+//SC:o(3);
