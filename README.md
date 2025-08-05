@@ -95,6 +95,7 @@
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3931-process-string-with-special-operations-i) |
 ## Union Find
 |  |
@@ -533,6 +536,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -542,6 +546,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
