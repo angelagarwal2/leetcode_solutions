@@ -73,6 +73,7 @@
 | [0940-fruit-into-baskets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
@@ -138,6 +139,7 @@
 | [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -489,6 +491,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -542,6 +545,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
