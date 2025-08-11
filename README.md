@@ -61,6 +61,7 @@
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -132,6 +133,7 @@
 | [0409-longest-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -354,6 +356,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -615,6 +618,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
