@@ -345,6 +345,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
