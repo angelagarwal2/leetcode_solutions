@@ -82,6 +82,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
+| [1310-watering-plants](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1310-watering-plants) |
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -475,6 +476,7 @@
 | [0054-spiral-matrix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
+| [1310-watering-plants](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1310-watering-plants) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
