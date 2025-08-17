@@ -30,6 +30,7 @@
 | [0079-word-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -363,6 +364,7 @@
 | [0020-valid-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -439,6 +441,7 @@
 | [0073-set-matrix-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
@@ -460,6 +463,7 @@
 | [0022-generate-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -640,6 +644,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
