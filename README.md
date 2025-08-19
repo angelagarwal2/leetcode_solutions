@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -468,6 +469,7 @@
 | [0022-generate-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -545,6 +547,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0409-longest-palindrome) |
