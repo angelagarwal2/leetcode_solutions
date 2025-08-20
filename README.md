@@ -165,6 +165,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -362,6 +363,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -540,6 +542,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Design
 |  |
 | ------- |
