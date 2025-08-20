@@ -76,6 +76,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
@@ -384,6 +385,7 @@
 | [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -668,6 +670,7 @@
 | [0402-remove-k-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
