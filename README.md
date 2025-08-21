@@ -77,6 +77,7 @@
 | [0645-set-mismatch](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
@@ -437,6 +438,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0907-koko-eating-bananas) |
