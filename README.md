@@ -207,6 +207,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2630-alternating-digit-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
