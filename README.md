@@ -350,6 +350,7 @@
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
@@ -393,6 +394,7 @@
 | [0402-remove-k-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
@@ -498,6 +500,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
+| [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
@@ -577,6 +580,7 @@
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1448-maximum-69-number) |
