@@ -176,6 +176,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [3396-valid-word](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
 |  |
@@ -563,6 +565,7 @@
 | [1848-sum-of-unique-elements](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
