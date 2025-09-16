@@ -163,6 +163,7 @@
 | [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -285,6 +286,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -696,6 +698,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -730,6 +733,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -742,6 +746,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -749,4 +754,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
