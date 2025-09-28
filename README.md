@@ -89,6 +89,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -203,6 +204,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -287,6 +289,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -598,6 +601,7 @@
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
