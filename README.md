@@ -94,6 +94,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1310-watering-plants) |
@@ -421,6 +422,7 @@
 | [0874-backspace-string-compare](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1666-make-the-string-great) |
@@ -738,6 +740,7 @@
 | [0503-next-greater-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Enumeration
@@ -776,6 +779,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -805,6 +809,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -828,4 +833,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
