@@ -105,6 +105,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -174,6 +175,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -472,6 +474,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -610,6 +613,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -681,6 +685,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1612-avoid-flood-in-the-city](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Bucket Sort
 |  |
 | ------- |
