@@ -91,6 +91,7 @@
 | [0907-koko-eating-bananas](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -380,6 +381,7 @@
 | [0889-buddy-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0935-orderly-queue) |
+| [0944-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
