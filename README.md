@@ -560,6 +560,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -742,6 +743,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
@@ -846,6 +848,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -865,4 +868,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
