@@ -764,6 +764,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
@@ -869,6 +870,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -900,4 +902,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
