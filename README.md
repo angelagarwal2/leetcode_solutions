@@ -240,6 +240,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3783-mirror-distance-of-an-integer](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
