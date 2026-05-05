@@ -212,6 +212,7 @@
 | [0060-permutation-sequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0204-count-primes) |
@@ -544,6 +545,7 @@
 | [0045-jump-game-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -655,6 +657,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
