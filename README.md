@@ -129,6 +129,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2498-frog-jump-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -503,6 +504,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2498-frog-jump-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -653,6 +655,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2498-frog-jump-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2498-frog-jump-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
 |  |
