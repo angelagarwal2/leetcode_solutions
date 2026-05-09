@@ -115,6 +115,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-cherry-pickup-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -527,6 +528,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1463-cherry-pickup-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/angelagarwal2/leetcode_solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -576,6 +578,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Simulation
