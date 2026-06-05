@@ -75,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -572,6 +573,7 @@
 | [0213-house-robber-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
