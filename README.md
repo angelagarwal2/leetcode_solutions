@@ -409,6 +409,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-delete-columns-to-make-sorted](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -586,6 +587,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/angelagarwal2/leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/angelagarwal2/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/angelagarwal2/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
